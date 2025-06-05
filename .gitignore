@@ -1,0 +1,15 @@
+# Odoo-specific
+*.log
+sessions/
+__pycache__/
+*.pyc
+*.pyo
+*.pid
+*.conf.bak
+*.bak
+# Virtual environment
+venv/
+# IDE and system files
+.vscode/
+*.swp
+.DS_Store
